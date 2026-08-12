@@ -1,0 +1,8 @@
+{
+  "name": "قاريء الأسعار ",
+  "description": "تطبيق قراءة باركود الأصناف ومطابقتها مع قاعدة بيانات إكسل الخارجية لعرض الأسعار والتكلفة والصلاحية لحظياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
